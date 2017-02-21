@@ -15,7 +15,13 @@
 
     <string name="txtEuroConstant">Factor de € a $:</string>
     <string name="txtDollarConstant">Factor de $ a €:</string>
+    <string name="btnReiniciarFactor1">Reiniciar €=>$:</string>
+    <string name="btnReiniciarFactor2">Reiniciar $=>€:</string>
 
+    <string name="editFactor1">1.06205</string>
+    <string name="editFactor2">0.941575255;</string>
+
+    <string name="btnGuardar">Guardar</string>
 
 
 </resources>
