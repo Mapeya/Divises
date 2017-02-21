@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Divises</string>
+    <string name="title">Convertidor de Divises</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="btnOptions">Opciones</string>
+
+    <string name="init">0.00</string>
+
+    <string name="txtIgual">=</string>
+    <string name="unitOne">€</string>
+    <string name="unitTwo">$</string>
+
+    <string name="toEuro">$ => €</string>
+    <string name="toDollar">€ => $</string>
+
+    <string name="txtEuroConstant">Factor de € a $:</string>
+    <string name="txtDollarConstant">Factor de $ a €:</string>
+
+
+
+</resources>
