@@ -2,7 +2,7 @@
     <string name="app_name">Divises</string>
     <string name="title">Convertidor de Divises</string>
     <string name="btnConvertir">Convertir</string>
-    <string name="btnOptions">Opciones</string>
+    <string name="btnOptions">Opcions</string>
 
     <string name="init">0.00</string>
 
@@ -10,20 +10,18 @@
     <string name="unitOne">€</string>
     <string name="unitTwo">$</string>
 
-    <string name="toEuro">$ => €</string>
-    <string name="toDollar">€ => $</string>
+    <string name="toEuro">$ -> €</string>
+    <string name="toDollar">€ -> $</string>
 
-    <string name="txtEuroConstant">Factor de € a $:</string>
-    <string name="txtDollarConstant">Factor de $ a €:</string>
-    <string name="txtComision">Porcentaje de comisión:</string>
-    <string name="btnReiniciarFactor1">Reiniciar €=>$:</string>
-    <string name="btnReiniciarFactor2">Reiniciar $=>€:</string>
+    <string name="txtEuroConstant">Conversió EURO a DOLLAR:</string>
+    <string name="txtDollarConstant">Conversió DOLLAR a EURO:</string>
+    <string name="txtComision">Porcentatge de comisió:</string>
+    <string name="btnReiniciarFactor1">Reiniciar € -> $</string>
+    <string name="btnReiniciarFactor2">Reiniciar $ -> €</string>
 
     <string name="editFactor1">1.06205</string>
     <string name="editFactor2">0.9415752</string>
     <string name="editComision">0</string>
 
     <string name="btnGuardar">Guardar</string>
-
-
 </resources>

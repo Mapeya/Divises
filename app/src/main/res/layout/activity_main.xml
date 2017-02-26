@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:layout_gravity="center_vertical|center_horizontal">
 
+
     <TextView
         android:text="@string/title"
         android:layout_width="match_parent"
@@ -23,25 +24,25 @@
         android:layout_gravity="center_vertical|center_horizontal">
 
         <EditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:inputType="numberDecimal"
-                android:id="@+id/txtEdit"
-                android:labelFor="@+id/txtEdit"
-                android:text="@string/init"
-                android:textSize="24sp"/>
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:id="@+id/txtEdit"
+            android:labelFor="@+id/txtEdit"
+            android:text="@string/init"
+            android:textSize="24sp"/>
 
         <TextView
-                android:text="@string/unitOne"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/txtUnit"
-                android:textSize="24sp"/>
+            android:text="@string/unitOne"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtUnit"
+            android:textSize="24sp"/>
 
     </LinearLayout>
 
     <View
-            android:background="@android:color/darker_gray"
+        android:background="@android:color/darker_gray"
         android:layout_height="2dp"
         android:layout_weight="0"
         android:layout_width="140dp"
@@ -64,10 +65,10 @@
             android:gravity="center_horizontal" />
 
         <TextView
-        android:text="@string/unitTwo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/txtUnitConverted"
+            android:text="@string/unitTwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtUnitConverted"
             android:textSize="36sp"/>
 
     </LinearLayout>
